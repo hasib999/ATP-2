@@ -18,7 +18,13 @@ namespace Third.Controllers
             }
             else
             {
-                
+                Session["name"] = Request["name"];
+                Session["username"] = Request["username"];
+                Session["password"] = Request["password"];
+                Session["blood"] = Request["blood"];
+                Session["gender"] = Request["gender"];
+                Session["dob"] = Request["dob"];
+                return RedirectToAction("Another");
             }
             
         }
