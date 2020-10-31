@@ -1,0 +1,35 @@
+﻿@model Third.Models.Person
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Another</title>
+</head>
+<body>
+    <div> 
+        <h1>Another</h1>
+        <table>
+            <tr>
+                <td>Name</td>
+                <td>@Session["name"]</td>
+            </tr>
+            <tr>
+                <td>UserName</td>
+                <td>@Session["username"]</td>
+            </tr><tr>
+                <td>Password</td>
+                <td>@Session["password"]</td>
+            </tr><tr>
+                <td>Blood Group</td>
+                <td>@Session["blood"]</td>
+            </tr><tr>
+                <td>Gender</td>
+                <td>@Session["gender"]</td>
+            </tr>
+        </table>
+        
+    </div>
+</body>
+</html>
