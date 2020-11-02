@@ -10,11 +10,12 @@ namespace Scafolding_Technique.Controllers
     public class PersonController : Controller
     {
         // GET: Person
-        List<Person> persons = new List<Person>() { 
-            new Person() { id="1" , name="hasib" ,email="hasib@" , salary="20000"} ,
-            new Person() { id="2" , name="hasib" ,email="hasib@" , salary="20000"} ,
-            new Person() { id="3" , name="hasib" ,email="hasib@" , salary="20000"} ,
-            new Person() { id="4" , name="hasib" ,email="hasib@" , salary="20000"} ,
+            static List<Person> persons = new List<Person>() { 
+            new Person() { Id=1 , Name="hasib" ,Email="hasib@" , Salary="20000"} ,
+            new Person() { Id=2 , Name="hasib" ,Email="hasib@" , Salary="20000"} ,
+            new Person() { Id=3 , Name="hasib" ,Email="hasib@" , Salary="20000"} ,
+            new Person() { Id=4 , Name="hasib" ,Email="hasib@" , Salary="20000"} ,
+            
 
         };
         public ActionResult Index()
@@ -22,15 +23,51 @@ namespace Scafolding_Technique.Controllers
             return View(persons);
         }
         [HttpGet]
-        public ActionResult Edit(string id)
+        public ActionResult Edit(int id)
         {
-            Person p = persons.Where(x => x.id == id).First();
+            Person p = persons.Where(x => x.Id == id).First();
             return View(p);
         }
         [HttpPost]
-        public ActionResult Edit(string id, Person p)
+        public ActionResult Edit(int id, Person p)
         {
+            Person personToUpdate = persons.Where(x => x.Id == id).First();
+            personToUpdate.Id = id;
+            personToUpdate.Name = p.Name;
+            personToUpdate.Email = p.Email;
+            personToUpdate.Salary = p.Salary;
             return RedirectToAction("Index");
         }
+        [HttpGet]
+        public ActionResult Create()
+        {
+            return View();
+        }
+        [HttpPost]
+        public ActionResult Create(Person p)
+        {
+            persons.Add(p);
+            return RedirectToAction("Index");
+        }
+        [HttpGet]
+        public ActionResult Delete(int id)
+        {
+            Person p = persons.Where(x => x.Id == id).First();
+            return View(p);
+        }
+        [HttpPost]
+        public ActionResult Delete(int id , Person p)
+        {
+            var item = persons.Where(x => x.Id == id).First();
+            persons.Remove(item);
+            return RedirectToAction("Index");
+        }
+        [HttpGet]
+        public ActionResult Details(int id)
+        {
+            Person p = persons.Where(x => x.Id == id).First();
+            return View(p);
+        }
+        
     }
 }

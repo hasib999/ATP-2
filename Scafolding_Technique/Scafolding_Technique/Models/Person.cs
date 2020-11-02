@@ -7,9 +7,9 @@ namespace Scafolding_Technique.Models
 {
     public class Person
     {
-        public string id { set; get; }
-        public string name { set; get; }
-        public string email { set; get; }
-        public string salary { set; get; }
+        public int Id { set; get; }
+        public string Name { set; get; }
+        public string Email { set; get; }
+        public string Salary { set; get; }
     }
 }
