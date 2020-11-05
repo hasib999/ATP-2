@@ -17,7 +17,6 @@ namespace Inventory_Management_System_with_ADO.Net.Controllers
             return View(pda.GetAllProducts());
         }
         [HttpGet]
-
         public ActionResult Create()
         {
             return View();

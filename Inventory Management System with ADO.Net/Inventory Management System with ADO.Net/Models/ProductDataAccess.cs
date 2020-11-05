@@ -46,7 +46,7 @@ namespace Inventory_Management_System_with_ADO.Net.Models
 
         public int InsertProduct(Product pro)
         {
-            string sql = "INSERT INTO Product(ProductName,Price,CategoryId) VALUES('" + pro.ProductName + ","+pro.Price+","+pro.CategoryId+"')";
+            string sql = "INSERT INTO Products(ProductName, Price, CategoryId) VALUES('"+ pro.ProductName + ","+pro.Price+","+pro.CategoryId+"')";
             return dataAccess.ExecuteQuery(sql);
         }
     }
