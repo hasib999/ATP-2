@@ -14,7 +14,7 @@ namespace Inventory_Management_System_with_ADO.Net.Controllers
         public ActionResult Index()
         {
             ProductDataAccess pda = new ProductDataAccess();
-            return View(pda);
+            return View(pda.GetAllProducts());
         }
         [HttpGet]
 
