@@ -20,6 +20,7 @@ namespace Scafolding_Technique.Controllers
         };
         public ActionResult Index()
         {
+            Session["test"] = "This is my Session";
             return View(persons);
         }
         [HttpGet]
@@ -41,6 +42,10 @@ namespace Scafolding_Technique.Controllers
         [HttpGet]
         public ActionResult Create()
         {
+            if(Session["test"] == null)
+            {
+                return RedirectToAction("Index");
+            }
             return View();
         }
         [HttpPost]
