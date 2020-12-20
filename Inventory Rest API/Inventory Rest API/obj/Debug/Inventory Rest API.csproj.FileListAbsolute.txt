@@ -1,0 +1,48 @@
+C:\Users\USER\Desktop\ATP2\ATP-2\Inventory Rest API\Inventory Rest API\bin\Inventory Rest API.dll.config
+C:\Users\USER\Desktop\ATP2\ATP-2\Inventory Rest API\Inventory Rest API\bin\Inventory Rest API.dll
+C:\Users\USER\Desktop\ATP2\ATP-2\Inventory Rest API\Inventory Rest API\bin\Inventory Rest API.pdb
+C:\Users\USER\Desktop\ATP2\ATP-2\Inventory Rest API\Inventory Rest API\bin\roslyn\csc.exe
+C:\Users\USER\Desktop\ATP2\ATP-2\Inventory Rest API\Inventory Rest API\bin\roslyn\csc.exe.config
+C:\Users\USER\Desktop\ATP2\ATP-2\Inventory Rest API\Inventory Rest API\bin\roslyn\csc.rsp
+C:\Users\USER\Desktop\ATP2\ATP-2\Inventory Rest API\Inventory Rest API\bin\roslyn\csi.exe
+C:\Users\USER\Desktop\ATP2\ATP-2\Inventory Rest API\Inventory Rest API\bin\roslyn\csi.rsp
+C:\Users\USER\Desktop\ATP2\ATP-2\Inventory Rest API\Inventory Rest API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Desktop\ATP2\ATP-2\Inventory Rest API\Inventory Rest API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Desktop\ATP2\ATP-2\Inventory Rest API\Inventory Rest API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USER\Desktop\ATP2\ATP-2\Inventory Rest API\Inventory Rest API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Desktop\ATP2\ATP-2\Inventory Rest API\Inventory Rest API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USER\Desktop\ATP2\ATP-2\Inventory Rest API\Inventory Rest API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Desktop\ATP2\ATP-2\Inventory Rest API\Inventory Rest API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Desktop\ATP2\ATP-2\Inventory Rest API\Inventory Rest API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USER\Desktop\ATP2\ATP-2\Inventory Rest API\Inventory Rest API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USER\Desktop\ATP2\ATP-2\Inventory Rest API\Inventory Rest API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Desktop\ATP2\ATP-2\Inventory Rest API\Inventory Rest API\bin\roslyn\System.AppContext.dll
+C:\Users\USER\Desktop\ATP2\ATP-2\Inventory Rest API\Inventory Rest API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Desktop\ATP2\ATP-2\Inventory Rest API\Inventory Rest API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USER\Desktop\ATP2\ATP-2\Inventory Rest API\Inventory Rest API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USER\Desktop\ATP2\ATP-2\Inventory Rest API\Inventory Rest API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\Desktop\ATP2\ATP-2\Inventory Rest API\Inventory Rest API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Desktop\ATP2\ATP-2\Inventory Rest API\Inventory Rest API\bin\roslyn\vbc.exe
+C:\Users\USER\Desktop\ATP2\ATP-2\Inventory Rest API\Inventory Rest API\bin\roslyn\vbc.exe.config
+C:\Users\USER\Desktop\ATP2\ATP-2\Inventory Rest API\Inventory Rest API\bin\roslyn\vbc.rsp
+C:\Users\USER\Desktop\ATP2\ATP-2\Inventory Rest API\Inventory Rest API\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Desktop\ATP2\ATP-2\Inventory Rest API\Inventory Rest API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Desktop\ATP2\ATP-2\Inventory Rest API\Inventory Rest API\bin\EntityFramework.dll
+C:\Users\USER\Desktop\ATP2\ATP-2\Inventory Rest API\Inventory Rest API\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\ATP2\ATP-2\Inventory Rest API\Inventory Rest API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Desktop\ATP2\ATP-2\Inventory Rest API\Inventory Rest API\bin\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\ATP2\ATP-2\Inventory Rest API\Inventory Rest API\bin\System.Net.Http.Formatting.dll
+C:\Users\USER\Desktop\ATP2\ATP-2\Inventory Rest API\Inventory Rest API\bin\System.Web.Http.dll
+C:\Users\USER\Desktop\ATP2\ATP-2\Inventory Rest API\Inventory Rest API\bin\System.Web.Http.WebHost.dll
+C:\Users\USER\Desktop\ATP2\ATP-2\Inventory Rest API\Inventory Rest API\bin\EntityFramework.xml
+C:\Users\USER\Desktop\ATP2\ATP-2\Inventory Rest API\Inventory Rest API\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\ATP2\ATP-2\Inventory Rest API\Inventory Rest API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Desktop\ATP2\ATP-2\Inventory Rest API\Inventory Rest API\bin\Newtonsoft.Json.xml
+C:\Users\USER\Desktop\ATP2\ATP-2\Inventory Rest API\Inventory Rest API\bin\System.Net.Http.Formatting.xml
+C:\Users\USER\Desktop\ATP2\ATP-2\Inventory Rest API\Inventory Rest API\bin\System.Web.Http.xml
+C:\Users\USER\Desktop\ATP2\ATP-2\Inventory Rest API\Inventory Rest API\bin\System.Web.Http.WebHost.xml
+C:\Users\USER\Desktop\ATP2\ATP-2\Inventory Rest API\Inventory Rest API\obj\Debug\Inventory Rest API.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ATP2\ATP-2\Inventory Rest API\Inventory Rest API\obj\Debug\Inventory Rest API.csproj.CopyComplete
+C:\Users\USER\Desktop\ATP2\ATP-2\Inventory Rest API\Inventory Rest API\obj\Debug\Inventory Rest API.dll
+C:\Users\USER\Desktop\ATP2\ATP-2\Inventory Rest API\Inventory Rest API\obj\Debug\Inventory Rest API.pdb
+C:\Users\USER\Desktop\ATP2\ATP-2\Inventory Rest API\Inventory Rest API\obj\Debug\Inventory Rest API.csprojAssemblyReference.cache
